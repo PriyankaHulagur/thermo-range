@@ -1,4 +1,4 @@
-ThermoRange Arduino Project
+Arduino ThermoRange 
 
 A simple project that uses an HC-SR04 ultrasonic sensor and an LM35 temperature sensor with an Arduino to measure distance and temperature.
 The system uses temperature to adjust the speed of sound and gives a more accurate distance value through the Serial Monitor.
